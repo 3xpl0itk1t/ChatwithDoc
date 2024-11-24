@@ -71,7 +71,7 @@ ChatwithDoc is a powerful Retrieval-Augmented Generation (RAG) pipeline that all
 
 1. Run the application:
    ```bash
-   python app.py
+   streamlit run main.py
 ## Upload a document and start chatting with your data!
 
 ## Future Enhancements
